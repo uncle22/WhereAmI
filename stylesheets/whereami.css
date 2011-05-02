@@ -1,0 +1,11 @@
+#txtOutput {
+	height : 250px;
+}
+
+#mpTblDetails_div, #mpTblDetails {
+	margin-top: 10px;	
+}
+
+.mpTblDetailsLabel { 
+	font-weight : bold;
+}

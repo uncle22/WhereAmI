@@ -1,0 +1,12 @@
+[
+    {	
+    	"source": "app/assistants/stage-assistant.js"
+    },
+    {
+        "scenes": "mainPage",
+        "source": "app/assistants/mainPage-assistant.js"
+    },
+    { 	
+    	"source": "app/WhereAmI.js" 
+    }
+]

@@ -1,0 +1,9 @@
+{
+	"id": "org.planetfiction.whereami",
+	"version": "1.0.0",
+	"vendor": "PlanetFiction",
+	"type": "web",
+	"main": "index.html",
+	"title": "WhereAmI",
+	"icon": "icon.png"
+}
